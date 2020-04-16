@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+li{
+  list-style: none;
+}
+.name{
+  font-weight: 600;
+text-transform: uppercase;
+}
